@@ -1,0 +1,13 @@
+/Users/jah/Projects/BikeAppApi/BikeAppApi/bin/Debug/netcoreapp2.1/BikeAppApi.deps.json
+/Users/jah/Projects/BikeAppApi/BikeAppApi/bin/Debug/netcoreapp2.1/BikeAppApi.runtimeconfig.json
+/Users/jah/Projects/BikeAppApi/BikeAppApi/bin/Debug/netcoreapp2.1/BikeAppApi.runtimeconfig.dev.json
+/Users/jah/Projects/BikeAppApi/BikeAppApi/bin/Debug/netcoreapp2.1/BikeAppApi.dll
+/Users/jah/Projects/BikeAppApi/BikeAppApi/bin/Debug/netcoreapp2.1/BikeAppApi.pdb
+/Users/jah/Projects/BikeAppApi/BikeAppApi/obj/Debug/netcoreapp2.1/BikeAppApi.csproj.CoreCompileInputs.cache
+/Users/jah/Projects/BikeAppApi/BikeAppApi/obj/Debug/netcoreapp2.1/BikeAppApi.RazorAssemblyInfo.cache
+/Users/jah/Projects/BikeAppApi/BikeAppApi/obj/Debug/netcoreapp2.1/BikeAppApi.RazorAssemblyInfo.cs
+/Users/jah/Projects/BikeAppApi/BikeAppApi/obj/Debug/netcoreapp2.1/BikeAppApi.AssemblyInfoInputs.cache
+/Users/jah/Projects/BikeAppApi/BikeAppApi/obj/Debug/netcoreapp2.1/BikeAppApi.AssemblyInfo.cs
+/Users/jah/Projects/BikeAppApi/BikeAppApi/obj/Debug/netcoreapp2.1/BikeAppApi.RazorTargetAssemblyInfo.cache
+/Users/jah/Projects/BikeAppApi/BikeAppApi/obj/Debug/netcoreapp2.1/BikeAppApi.dll
+/Users/jah/Projects/BikeAppApi/BikeAppApi/obj/Debug/netcoreapp2.1/BikeAppApi.pdb
